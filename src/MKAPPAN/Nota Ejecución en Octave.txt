@@ -1,0 +1,4 @@
+En caso de ejecutar el programa en Octave
+Cambiar la configuración en laS funciones CENT y CPMEI
+Para CENT.m, comentar línea 25 y 26, y descomentar línea 28 y 29.
+Para CPMEI.m, comentar línea 36 y 37, y descomentar línea 39 y 40.

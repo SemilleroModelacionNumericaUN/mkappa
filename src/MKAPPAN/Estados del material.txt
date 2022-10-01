@@ -1,0 +1,23 @@
+Concreto inconfinado
+1 C. inconfinado - tensión
+2 C. inconfinado - compresión endurecimiento
+3 C. inconfinado - compresión ablandamiento
+4 C. inconfinado - compresión desprendimiento superficial
+
+Concreto confinado
+5 C. confinado - tensión
+6 C. confinado - compresión endurecimiento
+7 C. confinado - compresión ablandamiento
+8 C. confinado - compresión aplastamiento
+
+Acero
+Tensión
+9 Acero a tensión - lineal elástico
+10 Acero a tensión - fluencia
+11 Acero a tensión - endurecimiento
+12 Acero a tensión - rótura
+Compresión
+13 Acero a compresión - lineal elástico
+14 Acero a compresión - fluencia
+15 Acero a compresión - endurecimiento
+16 Acero a compresión - rótura
